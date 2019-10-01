@@ -1,6 +1,5 @@
 package com.aias.demo.serializable.parent;
 
-import com.aias.demo.serializable.Person;
 
 import java.io.*;
 
